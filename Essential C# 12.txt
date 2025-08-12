@@ -1,6 +1,11 @@
 
 https://github.com/IntelliTect/EssentialCSharp
 
+Creating .NET programs via the CLI
+$ dotnet new sln --name MySolution
+$ dotnet new console -n ProjectName
+$ dotnet sln solutionName.sln add ./ProjectName
+$ dotnet run --project ./ProjectName
 
 
 Chapter01
